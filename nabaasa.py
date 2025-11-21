@@ -1,2 +1,2 @@
-# Nabaasa Victor
-comment=print("hello world ")
+# Nabaasa Victor.
+comment=print("hello world. ")
